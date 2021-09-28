@@ -2383,9 +2383,9 @@ fs.unlinkSync(mediam)
 break
 
 //audios 
-case 'confeti':
+case 'mencho':
 addFilter(from)
-aud = fs.readFileSync('./audio/confeti.ogg') 
+aud = fs.readFileSync('./media/media_mencho (1).mp3') 
 samu330.sendMessage(from, aud, audio, {quoted: faud, mimetype: 'audio/mp4', ptt: true, duration: -999999, sendEphemeral: true}) 
 break
 case 'anana':
