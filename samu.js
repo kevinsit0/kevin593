@@ -2458,9 +2458,9 @@ addFilter(from)
 aud = fs.readFileSync('./audio/motomoto.ogg') 
 samu330.sendMessage(from, aud, audio, {quoted: faud, mimetype: 'audio/mp4', ptt: true, duration: -999999, sendEphemeral: true}) 
 break
-case 'nani':
+case 'wenas':
 addFilter(from)
-aud = fs.readFileSync('./audio/nani.ogg') 
+aud = fs.readFileSync('./media/Wenas.mp3') 
 samu330.sendMessage(from, aud, audio, {quoted: faud, mimetype: 'audio/mp4', ptt: true, duration: -999999, sendEphemeral: true}) 
 break
 case 'niconico':
