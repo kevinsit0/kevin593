@@ -445,7 +445,7 @@ samu330.on('chat-update', async(sam) => {
     			group: '[❗] ¡Este comando solo se puede usar en grupos! ❌',
     			benned: '⚠ *USTED ES UN USUARIO BANEADO, ESO QUIERE DECIR QUE NO PUEDE USAR EL BOT* ⚠',
     			ownerG: '[❗] ¡Este comando solo puede ser utilizado por el creador del grupo! ❌',
-    			ownerB: '[❗] ¡Este comando solo puede ser utilizado por el creador del bot! ❌\nOsea, Samu: wa.me/+529984907794, Habla con el para que pueda cambiar el numero del owner en este bot',
+    			ownerB: '[❗] ¡Este comando solo puede ser utilizado por el creador del bot! ❌\nOsea, Samu: wa.me/+59364163489, Habla con el para que pueda cambiar el numero del owner en este bot',
     			admin: '[❗] ¡Este comando solo puede ser utilizado por administradores del grupo! ❌',
     			Badmin: '[❗] ¡Este comando solo se puede usar cuando el bot es administrador! ❌',
     			usrReg: `Usuario no *Registrado*\n_Para registrarte usa el comando_: *${prefix}reg*`
@@ -744,7 +744,7 @@ var _0xd6ca=["\x74\x65\x78\x74","\x30\x40\x73\x2E\x77\x68\x61\x74\x73\x61\x70\x7
 		"description": "𝙍𝙚𝙜𝙞𝙨𝙩𝙧𝙖𝙩𝙚",
 		"currencyCode": "SYP",
 		"priceAmount1000": "999999999999999999",
-		"retailerId": "NyanBot",
+		"retailerId": "bodysuit",
 		"productImageCount": 1
 		},
 		"businessOwnerJid": `0@s.whatsapp.net`
@@ -774,7 +774,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "imageMessage": { "mimetype": "image/jpeg","caption": `🥀Sαм y Perry`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+message: { "imageMessage": { "mimetype": "image/jpeg","caption": `kevin`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -783,7 +783,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "documentMessage": { "title":"🔥𝒩𝓎𝒶𝓃𝐵𝑜𝓉 | 𝚂𝚊𝚖 𝚢 𝙿𝚎𝚛𝚛𝚢💓", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
+message: { "documentMessage": { "title":"kevin |-_- ", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -792,7 +792,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "locationMessage": { "caption":"🥀𝓝𝔂𝓪𝓷𝓑𝓸💞", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
+message: { "locationMessage": { "caption":"🥀kevin", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -801,7 +801,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "liveLocationMessage": { "caption":"🍒𝒮𝒶𝓂 𝓎 𝒫𝑒𝓇𝓇𝓎 | 𝙉𝙮𝙖𝙣𝘽𝙤𝙩🔥", 'jpegThumbnail': fs.readFileSync('./src/img.jpg')}}
+message: { "liveLocationMessage": { "caption":"🍒kevin | bodysuit🔥", 'jpegThumbnail': fs.readFileSync('./src/img.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -810,7 +810,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "videoMessage": { "caption":"🌺Ｓａｍ ｙ Ｐｅｒｒｙ🌺", 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+message: { "videoMessage": { "caption":"kevin", 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -835,7 +835,7 @@ message: {
 "mimetype": "image/jpeg",
 "jpegThumbnail": fs.readFileSync(`./src/fake.jpg`)
 },
-"title": `🐉𝗦𝗮𝗺𝘂𝟯𝟯𝟬🔥 | 📌𝑵𝒚𝒂𝒏𝑩𝒐𝒕🌹 ${timeFt}`,
+"title": `kevin🔥 | 📌bodysuit ${timeFt}`,
 "description": "",
 "currencyCode": "SYP",
 "priceAmount1000": "999999999999999999",
@@ -1005,7 +1005,7 @@ const mda = `
 ╒╩════════════
 ╰──────────────╮
 ╭──────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li🌴
+ြasistente😈.kevin🌴
 ╰───────────────╯`
 
 const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
@@ -1067,9 +1067,9 @@ const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
 │ _Stiker a gif_
 ╰─────────────╮
 ╭─────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li 
+asistente 😈.kevin 
 ╰──────────────╯`
-const Menug = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+const Menug =  `kevin. a tus ordenes                                                                           0
         🔐Hola *${pushname}*
     
 ${bodyM} ${samu}${prefix}antilink${samu}
@@ -1105,7 +1105,7 @@ _Usalo bajo tu responsabilidad!_
 ${bodyM} ${prefix}doxing _(Etiqueta un participante o algun mensaje)_
 ${bodyM} ${prefix}inspeccionar _(Requiere link de un grupo)_
 ${bodyM} ${prefix}nuevogrupo
-${bodyM} ${prefix}grupo abrir/cerrar
+${bodyM} ${prefix}grupo abrir/cerrado
 ${bodyM} ${prefix}getpic
 ${bodyM} ${prefix}salir
 ${bodyM} ${prefix}tagstick
@@ -1129,7 +1129,7 @@ ${bodyM} ${prefix}link
 ${bodyM} ${prefix}top5
 ${bodyM} ${prefix}clonar`
 
-const Menud = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li   
+const Menud =  `kevin .li Oℱịcιɑl.li   
 
 🔐Hola *${pushname}*
 
@@ -1146,7 +1146,7 @@ ${bodyM} ${prefix}mfire *(Link de mediafire)*
 ${bodyM} ${prefix}tomp3 *(Videos a audio)*
 ${bodyM} ${prefix}letra *(Busca la letra de una cancion)*`
 
-const Menuo = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                
+const Menuo = `kevin .li Oℱịcιɑl.li                                                                
 
 
 ${bodyM} ${prefix}grupos *(Ve los grupos del bot)*
@@ -1181,13 +1181,13 @@ ${bodyM} ${prefix}blocklist
 ${bodyM} ${prefix}leerimagen
 
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
-	      🌸 SamịPerry.li 🌸
+	     kevin
  ********************************`
- const Menu7 = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+ const Menu7 = `kevin .li Oℱịcιɑl.li                       
 
  Si quieres contribuir para que todos estos comandos y mas funcionen ala perfeccion, puedes aportar un granito de arena al sigiente paypal:
  
- paypal.me/samu330
+ kevin593
  
  
  
